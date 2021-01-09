@@ -2,7 +2,7 @@
 
 ### Setup:
 ```javascript
-npm i -g serialport-gsm express
+npm i -g serialport-gsm node-yaml-config express 
 ```
 
 
