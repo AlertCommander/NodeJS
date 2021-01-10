@@ -2,7 +2,7 @@
 
 ### Setup:
 ```javascript
-npm i -g serialport node-yaml-config express 
+npm i serialport node-yaml-config express 
 ```
 
 
